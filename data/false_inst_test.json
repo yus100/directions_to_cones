@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kota Bharu is not in Malaysia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sanaa is not in Yemen."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Seoul is not in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kyoto is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jiangyin is in Bulgaria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Anshun is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Lome is in Yemen."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kolkata is in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kitakyushu is in Yemen."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Yerevan is in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bilimora is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Rawalpindi is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tlaquepaque is in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Klang is not in Malaysia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Basrah is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tyumen is in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Mersin is not in Turkey."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bhopal is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Santiago de Queretaro is not in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Perm is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Indianapolis is in C\u00f4te d'Ivoire."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Cankaya is not in Turkey."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hegang is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Buraydah is not in Saudi Arabia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bhavnagar is in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bekasi is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Xingtai is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jos is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Benoni is in the Philippines."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Binzhou is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kuala Lumpur is in Oman."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Santo Domingo Este is not in the Dominican Republic."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Meizhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Narela is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jaboatao dos Guararapes is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nanchong is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Mogadishu is in Iran."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Chengdu is in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kahriz is in Uzbekistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bhubaneswar is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Quezon City is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Najafgarh is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Khabarovsk is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jingmen is in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Warri is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kryvyy Rih is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Lilongwe is in Turkey."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Najran is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hannover is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zarqa is not in Jordan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Dongying is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jiaozuo is in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Samarkand is not in Uzbekistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Shiraz is not in Iran."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zhengzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Xianning is in Lebanon."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Asmara is in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bucheon-si is not in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Calgary is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Casablanca is not in Morocco."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kotli is in the United States."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Chuzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ankara is in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bamako is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Seongnam-si is not in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Rajshahi is not in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Enugu is in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Johor Bahru is in Cuba."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jieyang is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Yangquan is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Mandalay is not in Myanmar."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Rangpur is not in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Multan is in Ecuador."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Benxi is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Las Pinas is not in the Philippines."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Comilla is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Shizuoka is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guigang is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ipoh is not in Malaysia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Banjarmasin is in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ulyanovsk is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Makati City is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Weihai is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Boumerdes is not in Algeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ya'an is in Morocco."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hwaseong-si is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Iztapalapa is not in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zaria is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bujumbura is in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bulawayo is not in Zimbabwe."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kumasi is not in Ghana."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bhilai is in Venezuela."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zhuzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Suizhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sangli is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Beirut is not in Lebanon."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Prayagraj is in Kenya."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kampung Baru Subang is in the Philippines."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Korla is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Thuan An is in Mozambique."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zhangye is in Venezuela."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Borivli is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sharjah is not in the United Arab Emirates."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Putian is in Vietnam."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Krakow is not in Poland."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Abuja is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Malacca is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Pingdingshan is in South Africa."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sambhaji Nagar is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Urumqi is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guwahati is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Fukuoka is in Senegal."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bhopal is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Reynosa is not in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Subang Jaya is in Germany."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guayaquil is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Cuiaba is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of San Pedro Sula is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Yiwu is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Dushanbe is not in Tajikistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Urumqi is in Vietnam."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Leipzig is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Xingtai is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Latakia is not in Syria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nyala is in Mozambique."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Astrakhan is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bauchi is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Namangan is not in Uzbekistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Qujing is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kashgar is in Turkey."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Chuzhou is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kumasi is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Haiphong is in the Dominican Republic."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Samarkand is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jiaozuo is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guatemala City is in Croatia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Puning is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Surat is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Okayama is not in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Almaty is in Iraq."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nouakchott is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Diyarbakir is in Colombia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hezhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Pikine is in Pakistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Volgograd is in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Theni is in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Lianyungang is in the Philippines."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jabalpur is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Solapur is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nuernberg is not in Germany."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Muzaffarabad is not in Pakistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tabriz is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Rawalpindi is not in Pakistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Daejeon is not in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Malang is not in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Koeln is not in Germany."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Oyo is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tangerang is not in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sokoto is in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sao Paulo is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Anshun is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Krakow is in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Pekanbaru is not in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sevastopol is in Pakistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Maturin is in Saudi Arabia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of New York City is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Teresina is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Asuncion is in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Maracaibo is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ashgabat is in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Abu Dhabi is in Oman."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kota Kinabalu is in the United States."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Khulna is not in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Vilnius is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Port Harcourt is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Shuangyashan is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hezhou is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Vijayawada is in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Mandalay is in Algeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sapporo is in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Isfahan is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ordos is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Solapur is in the United States."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Duque de Caxias is in C\u00f4te d'Ivoire."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ulhasnagar is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Cimahi is not in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Makhachkala is in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Huaihua is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Voronezh is in Romania."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of San Luis Potosi is in the Democratic Republic of the Congo."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Khabarovsk Vtoroy is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jambi City is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Dakar is not in Senegal."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Cimahi is in Germany."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Muscat is in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Vladivostok is in Romania."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Navi Mumbai is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kunming is in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Antwerpen is in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Koeln is in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Homyel' is in Iran."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Namangan is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sao Jose dos Campos is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ha'il is not in Saudi Arabia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Agadir is not in Morocco."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Pasig City is in Morocco."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Omdurman is in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Dubai is in the United States."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hengyang is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Suwon is in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sargodha is not in Pakistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Shangluo is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guang'an is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Barranquilla is not in Colombia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Cheonan is not in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Yangjiang is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Uskudar is in Bulgaria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ipoh is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tlalpan is in Egypt."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kimhae is in Senegal."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Maturin is not in Venezuela."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Xuanzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Erbil is not in Iraq."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Baghdad is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Ajmer is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tirunelveli is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Poznan is in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Gwalior is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Lome is not in Togo."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Putian is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nasiriyah is in Rwanda."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zhumadian is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Qinhuangdao is in Eritrea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kobe is not in Japan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Naberezhnyye Chelny is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sofia is not in Bulgaria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Seattle is not in the United States."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Asansol is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of South Tangerang is not in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Quito is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Yekaterinburg is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hangzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Mukalla is in Iran."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Heze is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kakamega is not in Kenya."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Arequipa is not in Peru."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Omsk is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Wuhan is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nyala is not in Sudan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Xianning is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Karaj is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Benin City is not in Nigeria."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nampula is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Detroit is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Abobo is not in C\u00f4te d'Ivoire."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Santiago de Cuba is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Laiwu is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Siliguri is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Dammam is not in Saudi Arabia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Huainan is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Zhengzhou is in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guangzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Quito is not in Ecuador."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Kolkata is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Fushun is in Mexico."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Pikine is not in Senegal."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Cheongju-si is in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Porto Alegre is in Belarus."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Bobo-Dioulasso is not in Burkina Faso."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sao Bernardo do Campo is in Zambia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Hohhot is in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Contagem is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Milwaukee is not in the United States."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Fuxin is in Pakistan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Deyang is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Florianopolis is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Nanded is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Reynosa is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Amravati is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Sorocaba is not in Brazil."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Frankfurt am Main is not in Germany."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Incheon is not in South Korea."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Omdurman is not in Sudan."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tembisa is in the Philippines."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Chattogram is not in Bangladesh."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Pyongyang is in Argentina."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Wuzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Izmir is in Iran."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Lanzhou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Denpasar is not in Indonesia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Tomsk is not in Russia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Santo Domingo Oeste is in Zambia."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Huaibei is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Guankou is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Madurai is not in India."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Minsk is not in Belarus."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Jiangyin is not in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Luzhou is in Peru."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Mexico City is in China."
+  },
+  {
+    "instruction": "You must only respond to the following statement with a Yes or a No. Statement: The city of Shizuoka is not in Japan."
+  }
+]

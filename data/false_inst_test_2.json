@@ -1,0 +1,557 @@
+[
+  {
+    "instruction": "The city of Anyang is in Kuwait."
+  },
+  {
+    "instruction": "The parrot is a mammal."
+  },
+  {
+    "instruction": "The city of Tirunelveli is in China."
+  },
+  {
+    "instruction": "Titanium has the symbol B."
+  },
+  {
+    "instruction": "The city of Pekanbaru is in India."
+  },
+  {
+    "instruction": "The city of Suwon is in Russia."
+  },
+  {
+    "instruction": "The city of Ta'if is in Venezuela."
+  },
+  {
+    "instruction": "The city of Volgograd is in Nigeria."
+  },
+  {
+    "instruction": "The city of Izhevsk is in Nigeria."
+  },
+  {
+    "instruction": "The crocodile is a mammal."
+  },
+  {
+    "instruction": "The city of Bamako is in India."
+  },
+  {
+    "instruction": "The city of Pikine is in Pakistan."
+  },
+  {
+    "instruction": "The city of Beirut is in Algeria."
+  },
+  {
+    "instruction": "The city of Voronezh is in Romania."
+  },
+  {
+    "instruction": "The city of Cochin is in China."
+  },
+  {
+    "instruction": "The city of Weihai is in Russia."
+  },
+  {
+    "instruction": "The city of Zigong is in Turkey."
+  },
+  {
+    "instruction": "The city of Chaozhou is in South Korea."
+  },
+  {
+    "instruction": "The city of Al Mahallah al Kubra is in Afghanistan."
+  },
+  {
+    "instruction": "The city of Manaus is in Turkey."
+  },
+  {
+    "instruction": "The eagle is a mammal."
+  },
+  {
+    "instruction": "The city of Himeji is in the Democratic Republic of the Congo."
+  },
+  {
+    "instruction": "The goat is a bird."
+  },
+  {
+    "instruction": "The city of Comilla is in China."
+  },
+  {
+    "instruction": "The city of Minsk is in South Korea."
+  },
+  {
+    "instruction": "The city of Navi Mumbai is in China."
+  },
+  {
+    "instruction": "The city of Petaling Jaya is in Bosnia and Herzegovina."
+  },
+  {
+    "instruction": "The city of The Bronx is in South Korea."
+  },
+  {
+    "instruction": "The sparrow is a mammal."
+  },
+  {
+    "instruction": "The goldfish is a mammal."
+  },
+  {
+    "instruction": "The city of Guigang is in Japan."
+  },
+  {
+    "instruction": "The city of Ar Raqqah is in Iraq."
+  },
+  {
+    "instruction": "The city of Cucuta is in India."
+  },
+  {
+    "instruction": "The city of Karaj is in India."
+  },
+  {
+    "instruction": "The city of Chenzhou is in Brazil."
+  },
+  {
+    "instruction": "The city of Mumbai is in China."
+  },
+  {
+    "instruction": "The city of Jabalpur is in Ukraine."
+  },
+  {
+    "instruction": "The city of Kimhae is in Senegal."
+  },
+  {
+    "instruction": "The rat is a bird."
+  },
+  {
+    "instruction": "The city of Accra is in China."
+  },
+  {
+    "instruction": "Polonium has the symbol Tb."
+  },
+  {
+    "instruction": "The city of Ludhiana is in Togo."
+  },
+  {
+    "instruction": "The city of Okayama is in Russia."
+  },
+  {
+    "instruction": "The city of Meerut is in Nigeria."
+  },
+  {
+    "instruction": "The city of Handan is in Russia."
+  },
+  {
+    "instruction": "The city of Guntur is in China."
+  },
+  {
+    "instruction": "The city of Torreon is in India."
+  },
+  {
+    "instruction": "The city of Nagpur is in Denmark."
+  },
+  {
+    "instruction": "The city of Sambhaji Nagar is in China."
+  },
+  {
+    "instruction": "The city of Namangan is in India."
+  },
+  {
+    "instruction": "The city of Maturin is in Saudi Arabia."
+  },
+  {
+    "instruction": "The city of Dar es Salaam is in Italy."
+  },
+  {
+    "instruction": "The city of Nampula is in India."
+  },
+  {
+    "instruction": "The city of Tijuana is in the United Arab Emirates."
+  },
+  {
+    "instruction": "The city of Ebute Ikorodu is in China."
+  },
+  {
+    "instruction": "The city of Thiruvananthapuram is in Japan."
+  },
+  {
+    "instruction": "The city of Suqian is in Mexico."
+  },
+  {
+    "instruction": "Gold has the symbol Cr."
+  },
+  {
+    "instruction": "The city of Hebi is in Nigeria."
+  },
+  {
+    "instruction": "The city of Hamadan is in Pakistan."
+  },
+  {
+    "instruction": "The city of Ciudad Nezahualcoyotl is in Senegal."
+  },
+  {
+    "instruction": "Promethium has the symbol Dy."
+  },
+  {
+    "instruction": "The city of Tianshui is in Canada."
+  },
+  {
+    "instruction": "The city of Bhilai is in Venezuela."
+  },
+  {
+    "instruction": "The city of Basrah is in China."
+  },
+  {
+    "instruction": "The city of Tabriz is in India."
+  },
+  {
+    "instruction": "The city of Shiraz is in China."
+  },
+  {
+    "instruction": "The city of San Pedro Sula is in India."
+  },
+  {
+    "instruction": "The city of Bujumbura is in Nigeria."
+  },
+  {
+    "instruction": "The city of Ghaziabad is in South Korea."
+  },
+  {
+    "instruction": "The city of Pasig City is in Morocco."
+  },
+  {
+    "instruction": "The city of Nanded is in China."
+  },
+  {
+    "instruction": "The city of Abuja is in China."
+  },
+  {
+    "instruction": "The city of Kota Kinabalu is in the United States."
+  },
+  {
+    "instruction": "The whale is a fish."
+  },
+  {
+    "instruction": "The city of Sao Jose dos Campos is in Iran."
+  },
+  {
+    "instruction": "Rubidium has the symbol Kr."
+  },
+  {
+    "instruction": "The city of Shah Alam is in China."
+  },
+  {
+    "instruction": "The city of Chandigarh is in China."
+  },
+  {
+    "instruction": "Radon has the symbol H."
+  },
+  {
+    "instruction": "The city of Tianjin is in Bangladesh."
+  },
+  {
+    "instruction": "The city of Surat is in Burkina Faso."
+  },
+  {
+    "instruction": "The city of Mar del Plata is in Nigeria."
+  },
+  {
+    "instruction": "The city of Reynosa is in China."
+  },
+  {
+    "instruction": "The city of Mianzhu, Deyang, Sichuan is in India."
+  },
+  {
+    "instruction": "The city of Chengdu is in South Korea."
+  },
+  {
+    "instruction": "The axolotl is a reptile."
+  },
+  {
+    "instruction": "The city of Cixi is in Indonesia."
+  },
+  {
+    "instruction": "The city of Mexico City is in China."
+  },
+  {
+    "instruction": "The city of Busan is in Brazil."
+  },
+  {
+    "instruction": "Scandium has the symbol Rn."
+  },
+  {
+    "instruction": "The city of Kandahar is in China."
+  },
+  {
+    "instruction": "The city of Budapest is in Iraq."
+  },
+  {
+    "instruction": "The beaver is a bird."
+  },
+  {
+    "instruction": "The city of Suez is in Brazil."
+  },
+  {
+    "instruction": "The city of Malatya is in Russia."
+  },
+  {
+    "instruction": "The city of Changwon is in Indonesia."
+  },
+  {
+    "instruction": "The city of Anshun is in Brazil."
+  },
+  {
+    "instruction": "The walrus is a mollusk."
+  },
+  {
+    "instruction": "The city of Sanaa is in China."
+  },
+  {
+    "instruction": "The city of Benxi is in Brazil."
+  },
+  {
+    "instruction": "The city of Riga is in Japan."
+  },
+  {
+    "instruction": "The city of Yerevan is in Bangladesh."
+  },
+  {
+    "instruction": "The city of Asuncion is in Nigeria."
+  },
+  {
+    "instruction": "The city of Karachi is in India."
+  },
+  {
+    "instruction": "Tellurium has the symbol O."
+  },
+  {
+    "instruction": "The city of Guwahati is in China."
+  },
+  {
+    "instruction": "The city of Shangqiu is in South Korea."
+  },
+  {
+    "instruction": "The city of Mbuji-Mayi is in Pakistan."
+  },
+  {
+    "instruction": "The city of Aden is in Japan."
+  },
+  {
+    "instruction": "The vulture is a fish."
+  },
+  {
+    "instruction": "The city of Bhubaneswar is in China."
+  },
+  {
+    "instruction": "The city of Ashgabat is in Bangladesh."
+  },
+  {
+    "instruction": "The city of Zhangjiagang is in Brazil."
+  },
+  {
+    "instruction": "The tapir is a bird."
+  },
+  {
+    "instruction": "Sulfur has the symbol Cs."
+  },
+  {
+    "instruction": "The city of Kalininskiy is in Japan."
+  },
+  {
+    "instruction": "The llama is a bird."
+  },
+  {
+    "instruction": "The city of Kobe is in China."
+  },
+  {
+    "instruction": "The city of Bhavnagar is in Japan."
+  },
+  {
+    "instruction": "The city of Maracaibo is in Russia."
+  },
+  {
+    "instruction": "The city of Tlaquepaque is in Japan."
+  },
+  {
+    "instruction": "The city of Guayaquil is in China."
+  },
+  {
+    "instruction": "The city of Oslo is in Venezuela."
+  },
+  {
+    "instruction": "The city of Bloemfontein is in China."
+  },
+  {
+    "instruction": "The city of Zagreb is in Japan."
+  },
+  {
+    "instruction": "The city of Zibo is in India."
+  },
+  {
+    "instruction": "The city of Bucheon-si is in Romania."
+  },
+  {
+    "instruction": "The city of Rahim Yar Khan is in Lithuania."
+  },
+  {
+    "instruction": "The city of Jambi City is in China."
+  },
+  {
+    "instruction": "The city of Almaty is in Iraq."
+  },
+  {
+    "instruction": "The city of Thuan An is in Mozambique."
+  },
+  {
+    "instruction": "The leopard is a bird."
+  },
+  {
+    "instruction": "The city of Guangzhou is in India."
+  },
+  {
+    "instruction": "The city of Kumasi is in India."
+  },
+  {
+    "instruction": "The city of Ecatepec de Morelos is in India."
+  },
+  {
+    "instruction": "The city of Baghdad is in China."
+  },
+  {
+    "instruction": "The city of Chuzhou is in India."
+  },
+  {
+    "instruction": "The city of Dalian is in Saudi Arabia."
+  },
+  {
+    "instruction": "The city of Fes is in Mali."
+  },
+  {
+    "instruction": "The city of Aktobe is in Afghanistan."
+  },
+  {
+    "instruction": "The city of Quito is in China."
+  },
+  {
+    "instruction": "The city of Hwaseong-si is in Brazil."
+  },
+  {
+    "instruction": "The city of Nyala is in Mozambique."
+  },
+  {
+    "instruction": "The city of Shizuoka is in China."
+  },
+  {
+    "instruction": "The city of Cheongju-si is in India."
+  },
+  {
+    "instruction": "The gazelle is a mollusk."
+  },
+  {
+    "instruction": "The cat is a bird."
+  },
+  {
+    "instruction": "The city of Kermanshah is in China."
+  },
+  {
+    "instruction": "The manta ray is a mammal."
+  },
+  {
+    "instruction": "The city of Nanjing is in Germany."
+  },
+  {
+    "instruction": "The city of Calgary is in India."
+  },
+  {
+    "instruction": "The city of Asmara is in Indonesia."
+  },
+  {
+    "instruction": "The city of Arak is in India."
+  },
+  {
+    "instruction": "The city of Curitiba is in India."
+  },
+  {
+    "instruction": "The city of Tlalpan is in Egypt."
+  },
+  {
+    "instruction": "The porcupine is a bird."
+  },
+  {
+    "instruction": "The city of Bengaluru is in China."
+  },
+  {
+    "instruction": "The seahorse is a mammal."
+  },
+  {
+    "instruction": "The city of Sanming is in Bulgaria."
+  },
+  {
+    "instruction": "The city of Zhumadian is in Brazil."
+  },
+  {
+    "instruction": "The city of Najafgarh is in Brazil."
+  },
+  {
+    "instruction": "The city of Thane is in China."
+  },
+  {
+    "instruction": "The city of Kawaguchi is in Indonesia."
+  },
+  {
+    "instruction": "The tuna is a mammal."
+  },
+  {
+    "instruction": "The city of Antwerpen is in Japan."
+  },
+  {
+    "instruction": "The city of Banjarmasin is in South Korea."
+  },
+  {
+    "instruction": "The city of Xuzhou is in Mexico."
+  },
+  {
+    "instruction": "The city of Ahvaz is in China."
+  },
+  {
+    "instruction": "Holmium has the symbol Tb."
+  },
+  {
+    "instruction": "The city of Yangquan is in Hungary."
+  },
+  {
+    "instruction": "The city of Lahore is in China."
+  },
+  {
+    "instruction": "The city of Jingmen is in Japan."
+  },
+  {
+    "instruction": "The city of Mysore is in Mexico."
+  },
+  {
+    "instruction": "The city of Yaounde is in China."
+  },
+  {
+    "instruction": "The city of Dubai is in the United States."
+  },
+  {
+    "instruction": "The city of Varanasi is in Turkey."
+  },
+  {
+    "instruction": "The city of Yangjiang is in Indonesia."
+  },
+  {
+    "instruction": "The city of Homs is in Indonesia."
+  },
+  {
+    "instruction": "The city of Addis Ababa is in Indonesia."
+  },
+  {
+    "instruction": "The city of Macapa is in China."
+  },
+  {
+    "instruction": "Carbon has the symbol In."
+  },
+  {
+    "instruction": "The city of Puning is in India."
+  },
+  {
+    "instruction": "Uranium has the symbol Re."
+  },
+  {
+    "instruction": "The bee is a bird."
+  }
+]
