@@ -17,7 +17,9 @@ The key contributions include:
 
 Below is a visualization of a learned 2D concept cone for truth in residual activation space. Each dot represents a sample direction within the cone and how it modulates output behavior. The three black points mark ablated directions pointing toward specific ground-truth examples.
 
-![Concept Cone Visualization](truth_cone_viz%20(1).png)
+<p align="center">
+  <img src="truth_cone_viz%20(1).png" alt="Concept Cone Visualization" width="400"/>
+</p>
 
 ## Citation
 
