@@ -25,11 +25,11 @@ Below is a visualization of a learned 2D concept cone for truth in residual acti
 
 If you use this work, please cite:
 
-```bibtex
-@misc{anonymous2025directions,
-  title={From Directions to Cones: Multidimensional Representations of Propositional Facts in LLMs},
-  author={Anonymous},
-  year={2025},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
+```@inproceedings{
+yu2025from,
+title={From Directions to Cones: Multidimensional Representations of Propositional Facts in {LLM}s},
+author={Stanley Yu and Vaidehi Bulusu and Oscar S. Yasunaga and Clayton Lau and Cole Blondin and Vasu Sharma and Kevin Zhu and Sean O'Brien},
+booktitle={ACL 2025 Student Research Workshop},
+year={2025},
+url={https://openreview.net/forum?id=GYaJKGfmXm}
 }
